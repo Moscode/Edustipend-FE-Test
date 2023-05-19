@@ -15,3 +15,7 @@
 - React
 - JavaScript
 - TailwindCss
+- Netlify
+
+## Deployed Version for live testing
+**Here is a link for the live demo:** https://edustipend-fe-test.netlify.app/
