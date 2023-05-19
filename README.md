@@ -8,7 +8,7 @@
 - From the definition above, I was able to identified two components from the mockup design, which are: the button and trending song 
 - I went ahead to initialize the app by creating a react app using vite 
 - Then I created a folder named - components that contain the two components (Button and Trending Song tab)
-- To further show the components, I designed every other parts that wasn't considered as a component inside the first layer i.e App.jsx
+- To further show the components, I designed every other parts that wasn't considered as a component inside the first layer (root of the app) i.e App.jsx
 
 ## Technologies
 - Vite
